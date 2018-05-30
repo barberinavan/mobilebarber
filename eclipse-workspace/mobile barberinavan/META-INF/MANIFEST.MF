@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mobile_barberinavan
+Bundle-SymbolicName: mobile_barberinavan
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: mobile_barberinavan
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
